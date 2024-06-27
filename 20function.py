@@ -7,17 +7,17 @@
 
 # print(func_name(argument1, argument2)) - calling the function
 
-# def calSum(a, b):
-#     return a + b
+def calSum(a, b):
+    return a + b
 
-# print(calSum(5, 10))
+print(calSum(5, 10))
 
 #Calculate the average of 3 numbers
-# def calc_avg(a, b, c):
-#     a = (a+b+c)/3
-#     return a
+def calc_avg(a, b, c):
+    a = (a+b+c)/3
+    return a
 
-# print(calc_avg(2, 4, 9))
+print(calc_avg(2, 4, 9))
 
 #Types of functions in python
 # 1. Build-in function - len(), print(), type(), range()
